@@ -18,3 +18,8 @@ Esta sección se agrega en un segundo commit para comprobar el control de cambio
 
 Selecciono los archivos que se guardarán en el commit.
 También retiro un archivo del staging y descarto un cambio de prueba.
+
+## Gestión de ramas
+
+La clase ControlVersion_Romero se desarrolla en la rama feature-romero,
+de forma independiente de main, antes de integrar los cambios.
