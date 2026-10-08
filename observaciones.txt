@@ -1,0 +1,5 @@
+Estudiante: Juan Diego Romero Peralta
+Curso: Lenguaje de Programación II
+
+El README y este archivo se conservarán en el commit final.
+El cambio de prueba en pom.xml se retirará del staging y se descartará.
