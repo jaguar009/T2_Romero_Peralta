@@ -8,3 +8,8 @@ Proyecto: T2_Romero_Peralta
 
 Proyecto Java con Maven para practicar el control de cambios con Git,
 el trabajo con ramas y la sincronización con GitHub.
+
+## Evidencia T2
+
+Se registró el proyecto inicial en Git y se configuró mi nombre y correo.
+Esta sección se agrega en un segundo commit para comprobar el control de cambios.
